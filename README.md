@@ -1,0 +1,1 @@
+Hi! This is a Tie Fighter 3D Model replic from Star Wars Saga, I hope you enjoy it! I made it on Autodesk Fusion 360 and the file format it's in .STL, so feel free to use it and modificate it. You can open it with: Solidworks, Meshmixer, Vision 3D, Paint 3D, ThinkerCAD, etc. 
